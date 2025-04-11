@@ -1,10 +1,42 @@
 ## Passionate Full-stack Engineer
-- 👋 Hi, I’m chris, 28 years old and a Polymath
-- 👀 I’m interested in opportunities and eager to apply them in my life
-- 🌱 I’m currently learning the basics in Python and ML
-- 💞️ I’m looking to collaborate on project of every kind to practise
-- 📫 How to reach me: chris.hermann9397@gmail.com
-- ⚡ Fun fact: I am a circus Artist 
+Hi there! 👋 I’m Chris Hermann
+
+👨‍💻 passionate coder | 🚀 Founder of 2 startups | 📚 Lifelong learner
+
+⸻
+
+### 🚀 About Me
+
+I’m a 28-year-old passionate coder who made the jump into tech in 2024. With a background in business studies, I realized the power of combining creative problem-solving with coding – and I’ve been hooked ever since!
+
+I’m a firm believer in self-learning, so I dove into the world of code through online courses and a coding bootcamp at Masterschool. This blend of business and tech helps me build software that’s both functional and user-friendly. 💡
+
+⸻
+
+### 🛠️ My Skills
+
+🔹 Languages & Frameworks:
+	•	Python, Flask, JavaScript, HTML/CSS
+	•	SQL, SQLite, NoSQL
+	•	Django, React.js, Node.js
+	•	Git/GitHub, Docker, CI/CD
+
+🔹 Tools:
+	•	VSCode, PyCharm, Jupyter Notebook
+	•	Postman, Docker, Kubernetes
+	•	Figma, Trello, Slack
+
+⸻
+
+💡 What Drives Me
+
+As someone who has founded 2 startups, I thrive on organization and creativity. Being self-motivated, I always find time to learn something new every day, whether it’s from podcasts, books, or media. I’m driven by the thrill of solving problems and creating tools that make a difference.
+
+⸻
+
+🌱 My Vision
+
+I’m constantly improving my skills to stay on top of the latest tech trends and become a better full-stack developer. Each day, I challenge myself to write clean, efficient, and scalable code while learning new technologies. I’m all about building software with purpose and staying curious. 🌍
 
 ### Languages and Tools:
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) 
